@@ -1,0 +1,49 @@
+<html>
+<head>
+
+
+<style>
+
+.healingyoursoul {
+height: 50px;
+width: 100%;
+background-color: grey;
+}
+
+ul {list-style-type: none;
+margin:0;
+padding:0;
+padding-left:2px;
+overflow: hidden;
+}
+
+li{float: left;}
+
+li a{display: block;
+padding: 8px;
+background-color: red;
+}
+
+</style>
+
+
+</head>
+<body>
+<div id="header"
+
+<div class="healingyoursoul"></div>
+
+<ul>
+<li><a href="#wome">Wome</a></li>
+<li><a href="#wome">Customers and Products</a></li>
+<li><a href="#wome">About Us</a></li>
+<li><a href="#wome">Contact Us</a></li>
+</ul>
+</div>
+
+
+</div>
+
+
+</body>
+</html>
